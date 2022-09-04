@@ -1,12 +1,12 @@
-# autoware_brigde
-some scripts of autoware
-some important bridges between autoware and sensors or driver
+# Autoware_brigde
+Some scripts of autoware
+Some important bridges between autoware and sensors or driver
 
-1.autoware2sleo
-transform TwistStamped to Twist
+1.Autoware2sleo
+Transform TwistStamped to Twist
 
-2.twist2ackermann
-transform TwistStamped to ackerman
+2.Twist2ackermann
+Transform TwistStamped to ackerman
 
-3.velodyne_points2points_raw
-transform /velodyne_points to /points_raw
+3.Velodyne_points2points_raw
+Transform /velodyne_points to /points_raw
